@@ -1,0 +1,28 @@
+FCFS Algorithm 
+	Wait  Turnaround 
+Min   	0	3
+Mean   	34.7	65.32
+Max   	156	196
+StdDev  43.23 	49.25
+-------------------------------- 
+Priority Algorithm 
+	Wait  Turnaround 
+Min   	0.00	3.00
+Mean   	29.77	61.01
+Max   	363.00	386.00
+StdDev  57.67 	65.02
+-------------------------------- 
+SJF Algorithm 
+	Wait  Turnaround 
+Min   	0.00	3.00
+Mean   	29.68	60.92
+Max   	363.00	386.00
+StdDev  57.67 	65.02
+-------------------------------- 
+Round Robin Algorithm 
+	Wait  Turnaround 
+Min   	0.00	3.00
+Mean   	35.29	66.54
+Max   	156.00	196.00
+StdDev  43.25 	49.28
+-------------------------------- 
